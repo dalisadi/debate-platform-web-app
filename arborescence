@@ -1,0 +1,21 @@
+DOSSIER DU PROJET 
+    - README.md
+    - app.py 
+    - test_app.py
+    - aborescence.txt
+    -> database
+        - db_fun.py
+        - db_args_test.py
+        - db_debats_test.py
+        - db_users_test.py
+        - vns.db
+        - db_test_finaux.py
+    -> static
+        - *.css
+        -> road_rage (dossier pour la font)
+        -> images (dossier avec toutes les images)
+            ->img (dossier avec les images pour la page debat_closed)
+        -> icons (dossier pour toutes les icones)
+    -> templates
+        - *.html
+        -*.js
